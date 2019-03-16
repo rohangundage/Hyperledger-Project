@@ -1,1 +1,1 @@
-# Hyperledger-Project
+# Hyperledger-Project Sample Project
